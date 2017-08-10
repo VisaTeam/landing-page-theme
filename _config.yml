@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://visateam.github.io/landing-page-theme
-baseurl: /landing-page-theme
+url: http://visateam.github.io
+baseurl: 
 title: Your Awesome Site
 email: your-email@domain.com
 author: Your Name
